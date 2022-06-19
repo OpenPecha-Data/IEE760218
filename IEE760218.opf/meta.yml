@@ -1,0 +1,143 @@
+id: IEE760218
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T17:59:06.974037'
+last_modified: '2022-06-19T17:59:06.974042'
+parser: null
+source_metadata:
+  title: Vajrakīla Series
+  language: fr
+  description: 'A series of texts related to the deity Vajrakīla or Vajrakīlaya (rdo
+    rje phur ba):'
+  volume:
+    f539D:
+      title: A Short Practice for Averting Obstacles through Vajrakīla
+      base_file: f539D.txt
+      order: 1
+      parent: Averting Obstacles
+    f117C:
+      title: 'Meeting the Buddha Face to Face: A Pith Instruction on Realizing the
+        Fortress, Ravine, and View of the Practice of Vajrakīla'
+      base_file: f117C.txt
+      order: 2
+      parent: Commentaries
+    fABB6:
+      title: 'Offering Clouds of Samantabhadra: Confession and Fulfilment'
+      base_file: fABB6.txt
+      order: 3
+      parent: Confession and Fulfilment
+    fCC1E:
+      title: 'Bestowing the Splendour of All That is Desirable: Fire Offering for
+        the ''Neck-Pouch Dagger’ (Purba Gulkhukma) Cycle'
+      base_file: fCC1E.txt
+      order: 4
+      parent: Fire Offering
+    fFCDA:
+      title: 'Inventory: The Perfectly Clear Mirror from the Razor of the Innermost
+        Essence'
+      base_file: fFCDA.txt
+      order: 5
+      parent: Inventories
+    fD94F:
+      title: 'The Swift Infusion of Blessings: A Lineage Prayer for the Single Mind
+        Kīla Heart-Practice, Part of the ''Neck Pouch Dagger’ (Purba Gulkhukma) Cycle'
+      base_file: fD94F.txt
+      order: 6
+      parent: Lineage Prayers
+    f9075:
+      title: 'Vajrakīla Prayer: A Rain of Accomplishments'
+      base_file: f9075.txt
+      order: 7
+      parent: Lineage Prayers
+    fF1E7:
+      title: A Vajrakīla Lineage Prayer
+      base_file: fF1E7.txt
+      order: 8
+      parent: Lineage Prayers
+    f8131:
+      title: Vajrakīla Tsok Prayer from Sangtik Korsum
+      base_file: f8131.txt
+      order: 9
+      parent: Offering
+    f544E:
+      title: The Eight-Branch Offering from the Gyüluk Phurba
+      base_file: f544E.txt
+      order: 10
+      parent: Offering
+    f77A2:
+      title: Invocation of the Vidyādhara Gurus
+      base_file: f77A2.txt
+      order: 11
+      parent: Prayers
+    f52FB:
+      title: 'The Falling Rain of Blessings: A Prayer of Inspiration'
+      base_file: f52FB.txt
+      order: 12
+      parent: Prayers
+    fEB91:
+      title: The Summoning of Blessings which Brings them Swift and Fast
+      base_file: fEB91.txt
+      order: 13
+      parent: Prayers
+    f6C83:
+      title: Entrusting Activity
+      base_file: f6C83.txt
+      order: 14
+      parent: Protectors
+    f6A68:
+      title: Offering to the Dharma Guardians of the 'Neck-Pouch Dagger’ (Purba Gulkhukma)
+        Cycle
+      base_file: f6A68.txt
+      order: 15
+      parent: Protectors
+    f6AD4:
+      title: Daily Practice of Vajrakīla
+      base_file: f6AD4.txt
+      order: 16
+      parent: Sādhanas
+    f7720:
+      title: The Essential Daily Practice of Vajrakīla
+      base_file: f7720.txt
+      order: 17
+      parent: Sādhanas
+    fF6A0:
+      title: Daily Practice of Vajrakīla
+      base_file: fF6A0.txt
+      order: 18
+      parent: Sādhanas
+    f81A4:
+      title: 'The Accomplishment of Supreme Enlightened Activity: A Recitation Manual
+        for The Vajrakīla Root Tantra Section'
+      base_file: f81A4.txt
+      order: 19
+      parent: Sādhanas
+    fBE3C:
+      title: 'Inlaid Jewels: Addenda to the ''Neck-Pouch Dagger’ (Purba Gulkhukma)
+        Cycle'
+      base_file: fBE3C.txt
+      order: 20
+      parent: Sādhanas
+    fB5F7:
+      title: The Single Mind Kīla Practice, Part of the 'Neck-Pouch Dagger’ (Purba
+        Gulkhukma) Cycle
+      base_file: fB5F7.txt
+      order: 21
+      parent: Sādhanas
+    f024F:
+      title: The Wisdom Mind Practice of One Kīla
+      base_file: f024F.txt
+      order: 22
+      parent: Sādhanas
+    f679B:
+      title: A Section of the Vajrakīla Root Tantra
+      base_file: f679B.txt
+      order: 23
+      parent: Tantras
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
